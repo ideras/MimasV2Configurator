@@ -11,6 +11,9 @@ The application is developed in Java and depends on the following libraries:
 
 The libraries are included in the repository for convinience.
 
+Rudimentary build and run scripts are attached.  Please note that this tool
+might need to be run as root to upload bitstreams to the fpga.
+
 License
 --------
 
