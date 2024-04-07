@@ -9,7 +9,12 @@ The application is developed in Java and depends on the following libraries:
 1. [Java Native Access (JNA)](https://github.com/java-native-access/jna)
 2. [PureJavaComm](https://github.com/nyholku/purejavacomm)
 
-The libraries are included in the repository for convinience.
+# Build & run
+
+```bash
+./gradlew build
+java -jar ./app/build/libs/MimasV2Configurator.jar
+```
 
 License
 --------
